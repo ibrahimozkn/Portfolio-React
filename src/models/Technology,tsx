@@ -1,0 +1,6 @@
+export const ProjectLink = class ProjectLink {
+  constructor(name, url) {
+    this.url = url;
+    this.name = name;
+  }
+};
